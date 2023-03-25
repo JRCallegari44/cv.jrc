@@ -1,0 +1,41 @@
+# ***Juan Ramiro Callegari***
+--------------------------
+
+## **Nacionalidad**: *Argentino*
+## **Edad**: *30 Años*
+## **Estado Civil**: *Soltero*
+## **Lugar de Nacimiento**: *Tigre*
+## **Domicilio**: *Pasaje 02* sin numero (*San Miguel*)
+## **Tel**: *1131160807*
+
+## _Acerca de Mi:_
+-------------------------------------------------------------
+*En pocas palabras, me describo como una persona que trata de salir adelante y aprender siempre que se pueda, que le gusta que los trabajos salgan en tiempo, forma y perfectas condiciones, un poco complicado con el hambiente laboral ya que necesito que todo este en orden y con su devida limpieza para realizar el trabajo de forma rapida y prolija,
+estoy dispuesto y capacitado para trabajar en equipo o solo segun lo requiera el puesto a desenpeñarme y me encanta afrontar desafios.
+Soy divertido, trato de que en el dia a dia se trabaje de forma correcta pero con un poco de humor y musica siempre es mejor.*
+
+## _Estudios Cursados_
+------------------------
+### **Secundario Completo:** 
+ * graduado en bachiller con orientacion en mecanica automotriz.
+### **Estudios terciarios:** (*cursos*) 
+- mecanica y electronica automotriz (Graduado)
+- inyeccion electronica avanzada (Graduado)
+- diagnostico de fallas en vehiculos diesel (Graduado)
+- Reparacion de bombas inyectoras e inyectores de alta precion common rail (Graduado)
+- peluqueria y barberia (Graduado)
+- Programador Java (en proseso). 
+ 
+### **Trabajos:**
+|*Nombre empresa*| *Puesto*|
+|--------------|----------|
+| Vtv Norte S.a  |Auxiliar mecanico|
+|Indisel           |Mecanico Reparador de Bombas e Inyectores diesel|
+|Bureau Veritas S.a|Auditor Externo|
+|Telecom           |Auditor externo de flota|
+|Centro de Carga   |Encargado de Mecanica automotriz|
+|Centro de Carga   |Playero, repositor de combustible y lubricantes|
+|Kavak.com         |Mecanico Automotriz en el area de Post venta|
+
+
+
